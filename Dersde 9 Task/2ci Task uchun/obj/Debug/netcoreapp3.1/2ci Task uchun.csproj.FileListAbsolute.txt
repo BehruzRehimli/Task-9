@@ -1,0 +1,14 @@
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\bin\Debug\netcoreapp3.1\2ci Task uchun.exe
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\bin\Debug\netcoreapp3.1\2ci Task uchun.deps.json
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\bin\Debug\netcoreapp3.1\2ci Task uchun.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\bin\Debug\netcoreapp3.1\2ci Task uchun.runtimeconfig.dev.json
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\bin\Debug\netcoreapp3.1\2ci Task uchun.dll
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\bin\Debug\netcoreapp3.1\2ci Task uchun.pdb
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\obj\Debug\netcoreapp3.1\2ci Task uchun.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\obj\Debug\netcoreapp3.1\2ci Task uchun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\obj\Debug\netcoreapp3.1\2ci Task uchun.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\obj\Debug\netcoreapp3.1\2ci Task uchun.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\obj\Debug\netcoreapp3.1\2ci Task uchun.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\obj\Debug\netcoreapp3.1\2ci Task uchun.dll
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\obj\Debug\netcoreapp3.1\2ci Task uchun.pdb
+C:\Users\Ziya\Desktop\c#\Dersde 9 Task\2ci Task uchun\obj\Debug\netcoreapp3.1\2ci Task uchun.genruntimeconfig.cache

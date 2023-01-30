@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dersde 9 Task/1.0.0": {
+        "runtime": {
+          "Dersde 9 Task.dll": {}
+        }
+      },
+      "2ci Task uchun/1.0.0": {
+        "runtime": {
+          "2ci Task uchun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dersde 9 Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "2ci Task uchun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
