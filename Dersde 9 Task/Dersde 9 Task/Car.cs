@@ -14,9 +14,18 @@ namespace Dersde_9_Task
         public double FuelFor1Km => _fuelfor1km;
         public Car(double fuelCap,double fuelFor1km, double mileage = 0, double currentFuel=0) : base(mileage)
         {
-            this._fuelCapacity = fuelCap;
-            _fuelfor1km = fuelFor1km;
-            _currentFuel= currentFuel;
+            if (fuelCap>0&&fuelCap>=_currentFuel)
+            {
+                this._fuelCapacity = fuelCap;
+            }
+            if (fuelFor1km>0)
+            {
+                _fuelfor1km = fuelFor1km;
+            }
+            if (currentFuel>=0)
+            {
+                _currentFuel = currentFuel;
+            }
         }
         public void AddFuel(int km)
         {

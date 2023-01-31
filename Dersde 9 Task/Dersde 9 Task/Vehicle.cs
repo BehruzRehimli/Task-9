@@ -16,7 +16,10 @@ namespace Dersde_9_Task
         }
         public virtual void Drive (double km)
         {
-            _mileAge += km; 
+            if (km>=0)
+            {
+                _mileAge += km;
+            }
         }
     }
 }
